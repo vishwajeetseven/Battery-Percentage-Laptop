@@ -14,7 +14,7 @@ C:\Users\<YourUsername>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\St
 
 Copy your compiled .exe file (or a shortcut to it) into this folder.
 
-Now Windows will automatically run your tray app whenever you log in.
+Now Windows will automatically run your tray app whenever you log in. (If you want to close the program right click on the status to Exit)
 
 
 
